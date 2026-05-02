@@ -1,5 +1,3 @@
-# agent-injection-demo
-
 # Indirect Prompt Injection — Demo
  
 A proof-of-concept showing how malicious instructions hidden inside documents can hijack an LLM-based agent into executing unauthorised actions.
